@@ -9,7 +9,7 @@
 
 
 
-## ![Github](https://img.shields.io/github/followers/kaganoglu?label=Follow&style=social)
+<a class="github-button" href="https://github.com/kaganoglu" aria-label="Follow @kaganoglu on GitHub">Follow @kaganoglu</a>
 
 <table border=1>
         <tr>
